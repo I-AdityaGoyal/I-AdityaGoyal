@@ -1,3 +1,4 @@
+![logo](https://github.com/I-AdityaGoyal/I-AdityaGoyal/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Exploring the Depths of ML: A Journey from India</h3>
 
