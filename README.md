@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **goyal.officials@gmail.com**
 
-- ⚡ Fun fact **🌟 Fun Fact: Tech Explorer with a Spiritual Soul! 🚀🧘‍♂️**
+- ⚡ Fun fact ** Tech Explorer with a Spiritual Soul! 🚀🧘‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
