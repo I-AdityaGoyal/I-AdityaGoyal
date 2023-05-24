@@ -14,7 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/aditya-goyal-252698221" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya-goyal-252698221" height="30" width="40" /></a>
 <a href="https://kaggle.com/goyaladi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="goyaladi" height="30" width="40" /></a>
-<a href="https://instagram.com/__itsadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__itsadi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/_adi-g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="_adi-g" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/goyaloffcnjq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="goyaloffcnjq" height="30" width="40" /></a>
 </p>
