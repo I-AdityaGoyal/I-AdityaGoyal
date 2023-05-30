@@ -5,7 +5,6 @@
 <img align="right" alt="coding" width="400" src="https://github.com/I-AdityaGoyal/I-AdityaGoyal/blob/main/Ml%20Gif.gif">
 
 
-
 - 💬 Ask me about **Feature Engineering, EDA, Machine Learning Algorithms, Python, C++**
 
 - 📫 How to reach me **goyal.officials@gmail.com**
