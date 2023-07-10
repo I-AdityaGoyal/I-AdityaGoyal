@@ -1,8 +1,8 @@
-![logo](https://github.com/I-AdityaGoyal/I-AdityaGoyal/blob/main/Banner.png)
+![logo](https://drive.google.com/file/d/1hrGErPAObjf1rsJlA9Pj533HS96QGLWZ/view?usp=sharing)
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Exploring the Depths of ML: A Journey from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/I-AdityaGoyal/I-AdityaGoyal/blob/main/Ml%20Gif.gif">
+<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1BmTZ3m_kPtoKQ9A2roY2kEx6AlvHo9qQ/view?usp=sharing">
 
 
 - 💬 Ask me about **Feature Engineering, EDA, Machine Learning Algorithms, Python, C++**
