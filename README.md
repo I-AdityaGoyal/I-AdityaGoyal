@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Exploring the Depths of ML: A Journey from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/1BmTZ3m_kPtoKQ9A2roY2kEx6AlvHo9qQ/view?usp=sharing">
+<a href="https://gifyu.com/image/SW3PY"><img align="right" alt="coding" width="400" src="https://s12.gifyu.com/images/SW3PY.gif" alt="SW3PY.gif" border="0" /></a>
 
 
 - 💬 Ask me about **Feature Engineering, EDA, Machine Learning Algorithms, Python, C++**
