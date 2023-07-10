@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Exploring the Depths of ML: A Journey from India</h3>
-# 💫 About Me:
 ☘ I am currently learning Machine Learning and Deep Learning<br><br>💬 Ask me about Feature Engineering, EDA, Machine Learning Algorithms, Python, C++<br><br>🌟 Fun fact * Tech Explorer with a Spiritual Soul! 🧘‍♂️*
 
 
