@@ -9,7 +9,8 @@
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%234AB197.svg?logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/goyaloffcnjq)
 [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/_Adi-G/)
 
-[![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+
 
 
 # 💻 Tech Stack:
