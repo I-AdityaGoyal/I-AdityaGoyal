@@ -27,7 +27,8 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?style=for-the-badge&logo=spyder-ide&logoColor=white)]
+![Spyder](https://img.shields.io/badge/Spyder-%23FF0000.svg?style=for-the-badge&logo=spyder-ide&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=I-AdityaGoyal&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
