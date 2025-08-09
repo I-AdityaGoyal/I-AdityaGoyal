@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Aditya Goyal</h1>
 <h3 align="center">Innovative learner proficient in algorithmic communication</h3>
 
-💡 Expanding my knowledge in advanced ML algorithms, DL frameworks, and NLP techniques.  
-💬 Feel free to ask me about Python, C++, Feature Engineering, EDA, ML, DL, CV, & NLP.  
-🌱 Actively working on Retrieval-Augmented Generation (RAG) and LLM-based projects.
+💡 Continuously exploring cutting-edge AI technologies — from advanced ML algorithms and deep learning frameworks to Generative AI, RAG pipelines, and agent-based architectures.
+💬 Ask me about Python, C++, LLMs, RAG, EDA, ML, DL, CV, NLP, and scalable AI development.
+🌱 Currently building business-focused AI solutions, including offline inference systems, high-performance Agentic RAG chatbots, and domain-specific LLM applications.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-goyal-252698221/) 
