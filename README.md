@@ -2,7 +2,9 @@
 <h3 align="center">Innovative learner proficient in algorithmic communication</h3>
 
 💡 Continuously exploring cutting-edge AI technologies — from advanced ML algorithms and deep learning frameworks to Generative AI, RAG pipelines, and agent-based architectures.
+
 💬 Ask me about Python, C++, LLMs, RAG, EDA, ML, DL, CV, NLP, and scalable AI development.
+
 🌱 Currently building business-focused AI solutions, including offline inference systems, high-performance Agentic RAG chatbots, and domain-specific LLM applications.
 
 ## 🌐 Socials:
